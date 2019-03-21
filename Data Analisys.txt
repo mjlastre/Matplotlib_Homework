@@ -1,0 +1,3 @@
+Company should be focus on evaluating the current fare cost for the rural and suburban areas in order to incentive more rides.
+Company should evaluate to add more drivers to the urban area to increase market share, the number of rides per city range from around 17 to 35, possible meaning that the current market share is not growing.
+Next analysis should be focus on identifying the behaviors of number of rides and fares vs. the time of the day in order to establish (confirm) the most efficient allocation of resources 
